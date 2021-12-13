@@ -26,6 +26,7 @@ public class Main {
         } else {
             System.out.println("Спор окончен! Победитель курица!");
         }
+        System.out.println("Потоки завершены");
     }
 }
 
